@@ -1,7 +1,7 @@
 
 Feature:BackgroundGT
 
-  Background: User is Logged In
+  Background: User is Logged In   
     Given Background given
     When Background when
     When Background when
