@@ -9,7 +9,7 @@ Feature: ButtonsGT
 
 
   Scenario: ButtonsGT Scenario2
-    Given there is a TEST
+    Given there is a TEST-FOR DEMO
     When the user modifies the SCRIPT
     Then the buttons should APPEAR
 
