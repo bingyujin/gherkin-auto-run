@@ -6,7 +6,7 @@ Feature: GT test
     When when1
     Then then1
 
-  Scenario: Scen2
-    Given given2
-    When when2
-    Then then2
+  Scenario: Scen3
+    Given given3
+    When when3
+    Then then3
